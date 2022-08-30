@@ -1,0 +1,16 @@
+name: extension
+publish_to: none
+version: 0.0.0
+description: >-
+  An example Dart Chrome extension.
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  js: ^0.6.1+1
+
+dev_dependencies:
+  build: ^2.0.0
+  build_web_compilers: ^3.0.0
+  build_runner: ^2.0.6

@@ -1,0 +1,12 @@
+{
+    "name": "[MV2] Example Dart Extension",
+    "key": "ADD KEY HERE",
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_icon": "dart_dev.png"
+    },
+    "background": {
+        "scripts": ["background.dart.js"]
+    }
+}
